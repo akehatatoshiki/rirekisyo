@@ -130,6 +130,7 @@
 ## インフラ
 
 | インフラ | 備考 |
+| --- | --- |
 | AWS EC2, RDB, S3, Route53, CloudFront | 運用、セットアップ経験あり。最低限基本的なことはできる |
 | AWS ECS, CloudWatch, ELB, ElastiCache | 運用経験あり。あまり自信なし |
 | Spark | インターン時代に使用 |
@@ -138,5 +139,6 @@
 ## BIツール
 
 | ツール名 | 備考 |
+| --- | --- |
 | redash | AMI, Dockerによる構築経験あり。chrootの監獄内でデーモンとして動くという黒魔術のようなredashの管理経験もあり。。。 |
 | Google Spreadsheet | 自動化、分析、グラフ作成など一番使用した |
